@@ -41,7 +41,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.4\Tests\Editor\Collaborate\Unity.CollabProxy.EditorTests.asmdef" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.13\Tests\Editor\Collaborate\Unity.CollabProxy.EditorTests.asmdef" />
      <Reference Include="UnityEngine">
      <HintPath>D:/UnityEditors/2021.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
